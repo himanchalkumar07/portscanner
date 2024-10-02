@@ -8,7 +8,7 @@ it works on ARP to scan network
 
 # Installation
 
-git clone 
+git clone https://github.com/himanchalkumar07/portscanner.git
 
 cd Networkscanner
 
